@@ -1,1 +1,1 @@
-# Platinum Web Dynamics
+# Platinum Web
